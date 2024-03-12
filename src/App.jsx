@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from 'react';
 import TopButtons from './Components/TopButtons';
-import Search from './Components/search';
+import Search from './Components/Search';
 import TimeandLocation from './Components/TimeandLocation';
 import Temperature from './Components/Temperature';
 import Forecast from './Components/Forecast';
